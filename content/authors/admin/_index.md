@@ -23,76 +23,73 @@ role: Population Genetics Researcher
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:josemiguel.serradell@gmail.com'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+  - icon: assets/media/icons/custom/bsky.svg
+    url: https://bsky.app/profile/josmi1895.bsky.social
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/josm18
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: http://www.linkedin.com/in/jose-miguel-serradell-noguera-89b20b171
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://orcid.org/0000-0001-6551-1432
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Population Genomics
+  - Demography
+  - Evolutionary Algorithms
+  - Machine Learning
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: PhD Biomedicine
+    institution: Universitat Pompeu Fabra & Institut de Biologia Evolutiva
+    date_start: 2020-04-01
+    date_end: 2024-03-01
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      Thesis on Demographic Inference in complex populations: the North African case. Supervised by [Dr. David Comas & Dr. Oscar Lao]. Contributions published in 2 papers in *Genome Biology* and *Human Molecular Genetics*.
     button:
       text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      url: 'https://www.tesisenred.net/handle/10803/690463#page=1'
+  - area: Master in Biological Anthropology
+    institution: Universitat Autonoma de Barcelona & Universitat de Barcelona
+    date_start: 2017-10-01
+    date_end: 2018-07-01
     summary: |
-      GPA: 3.8/4.0
+      Description of the master...
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      Relevant courses included:
+      - Population Genomics
+      - ..
+      - ..
+  - area: BSc Genetics
+    institution: Universitat Autonoma de Barcelona
+    date_start: 2013-09-13
+    date_end: 2017-06-30
     summary: |
-      GPA: 3.4/4.0
+      Description of the genetic degree
       
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      Relevant courses included:
+      - Bioinformatics
+      - Population Genetics
+      - Evolution
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: Postdoctoral Researcher
+    company_name: Institut de Biologia Evolutiva - CSIC
     company_url: ''
     company_logo: ''
-    date_start: 2021-01-01
+    date_start: 2024-01-20
     date_end: ''
     summary: |2-
       Responsibilities include:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
+  - position: Postdoctoral Researcher
+    company_name: CiC-Biogune
     company_url: ''
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2024-03-10
+    date_end: 2024-07-01
     summary: |
       Responsibilities include:
       - Migrated infrastructure to a new data center
@@ -108,51 +105,55 @@ skills:
         description: ''
         percent: 80
         icon: code-bracket
+      - name: Java
+        description: ''
+        percent: 80
+        icon: code-bracket
+      - name: Shell
+        description: ''
+        percent: 80
+        icon: code-bracket
+      - name: R
+        description: ''
+        percent: 80
+        icon: code-bracket
+  - name: Skills
+    color: '#eeac02'
+    color_border: '#f0bf23'
+    items:
       - name: Data Science
         description: ''
         percent: 100
         icon: chart-bar
-      - name: SQL
-        description: ''
-        percent: 40
-        icon: circle-stack
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-simple-walk
-      - name: Cats
+      - name: Genomics
         description: ''
         percent: 100
-        icon: cat
-      - name: Photography
+        icon: dna
+      - name: Machine-learning
         description: ''
         percent: 80
-        icon: camera
+        icon: robot
 
 languages:
   - name: English
     percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+  - name: Spanish
+    percent: 100
+  - name: Catalan
+    percent: 100
 
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Neural Networks and Deep Learning
+  - title: Linear Regression with Numpy and Python
     url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
+    date: '2023-05-01'
     awarder: Coursera
     icon: coursera
     summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
+      I studied the foundation of liear regression. By the end, I was able to apply perform linear regression analysis in Python.
   - title: Blockchain Fundamentals
     url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
     date: '2023-07-01'
