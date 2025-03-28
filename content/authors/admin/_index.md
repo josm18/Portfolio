@@ -8,7 +8,7 @@ last_name: Serradell
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 🕷
 
 # Is this the primary user of the site?
 superuser: true
@@ -154,26 +154,28 @@ awards:
     icon: coursera
     summary: |
       I studied the foundation of liear regression. By the end, I was able to apply perform linear regression analysis in Python.
-  - title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
-    awarder: edX
-    icon: edx
+  - title: Técnicas de Machine Learning basadas en árboles para Investigación científica con R
+    date: '2022-11-11'
+    awarder: Museo Nacional de Ciencias Naturales
+    icon: ""
     summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  - title: 'Object-Oriented Programming in R'
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
-    awarder: datacamp
-    icon: datacamp
+      I learned different machine learning algorithms such as xboostg, random forest appliying them to sample biological data
+  - title: 'IBE PhD Course'
+    url: https://www.github
+    date: '2022-07-30'
+    awarder: Institut Biologia Evolutiva
+    icon: ""
     summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
+      In this course I got familiarized with techinques performed by several of my colleagues during their PhD as well as grasping a basic knowledge of the different research topics performed in the institute.
+  - title: 'Java Programming I & II, MOOC'
+    url: https://www.mooc.fi
+    date: '2020-07-15'
+    awarder: University of Helsinki
+    icon: ""
+    summary: |
+      This course showed me the basis of the Java programming language as well as helping me understand object oriented programming.
 ---
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Jose Miguel Serradell is a postdoctoral researcher at the Algorithms for Population Genomics lab in the Institut de Biologia Evolutiva. My research interests include the application of machine learning and artificial intelligence techniques to explore demographic events in current and ancient populations and their effect of the genomes. I am  currently exploring potential Early Modern Human signals in current day South East Asian populations as part of the CSIC Momentum postdoctoral programme.
