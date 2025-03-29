@@ -33,7 +33,7 @@ tags: []
 featured: false
 
 image:
-  caption: 'Image credit: Conexion BCB'
+  caption: 'Image credit: X Bioinformatics and Genomics Symposium'
   focal_point: Right
 
 #links:
