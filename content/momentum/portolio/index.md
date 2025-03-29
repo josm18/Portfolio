@@ -8,14 +8,32 @@ tags:
   - Momentum
   - Courses
 image:
-  caption: 'Embed rich media such as videos and LaTeX math'
+  caption: 'Front page of my portfolio'
 ---
 
-Learning how to build my own digital portfolio has been quite the journey. For starters, the idea of what a digital portfolio is felt far from me. Like you don't often think of a researcher's portfolio, usually when you think about a portfolio your head goes to arts & craft, so getting in my head the idea of a what to put and how to putted so I doesn't feel like a glorified CV was extrange (it still feels odd but I think I am getting the hang on it). 
+Building my own digital portfolio has been quite the journey. At first, I had no clue what a digital portfolio even *was*. When you think of a portfolio, you usually picture artists or designers showing off their work—so the idea of a researcher's portfolio felt a bit out of place for me. I mean, how do you turn your research into something presentable without it feeling like just a fancy CV? It still feels a bit odd, but I think I’m finally starting to get the hang of it.
 
-Once I more or less had the idea of what I was going to put in, or the use I am going to give it we fell into the second problem, which is how I am going to actually build it. First I wanted to try using one of the platforms we learned in class, but some have confusing perscostumization tools and others have very limited free options. After wandering around Wordpress and Wix a couple days I ended up discarding that option and decided to try Notion to build it. I was way more familiar to notion than to any of those platforms as I use it like a journal  in my 9 to 5, so building some sort of presentable page was easier. I completed a first draft fairly quick (https://jose-serradell.notion.site/jose-m-serradell?pvs=4) but it felt empty, boring. If those platforms present a limit number of customization options, Notion was worse. You basically couldn't do anything, so I ended up also discarding that option eventhough I was nearly done with it. Finally, I decided to code my way into the porfolio, but I don't have any knowledge of HTML, CSS or JavaScript. The solution I ended up taking was to use a github template and more or less work from there. In this templates, the basic structure of the web page is already built in so my need of front-end knowledge was skipped but had enough room to customize each part of the portfolio as I want so it still feels mine. Once I settle on a template that I liked, it was time to start watching youtube videos on how to modify it to put the things I wanted and start to code up the page.
+Once I had an idea of what I wanted to include (and the purpose behind it), the next big hurdle hit: *how the heck do I actually build it?* Initially, I tried using one of the platforms we learned about in class, but man, some of them had confusing customization options, and others barely had any free features. After spending a few days wandering around Wordpress and Wix, I quickly gave up on that route and decided to try Notion instead. I’m way more familiar with Notion since I use it like a journal for my 9-to-5, so it felt like building a clean, simple page would be a bit easier. I knocked out a first draft pretty quickly (check it out here: [Notion Portfolio](https://jose-serradell.notion.site/jose-m-serradell?pvs=4)), but it still felt pretty empty—almost boring. Notion was even more restrictive than I imagined, and you couldn’t really do much to make it look interesting, so I had to ditch that idea too.
 
-The end result, I can say it is satsifactory. Still a long way to the final product but I will keep improving it when I have time in the following months with the idea of learning some HTML and CSS so I kind improve the page. As I said, it has been quite the journey for a 5 hour course, but an enjoyable one. Having a headquarter of everything I have done professionally is a great way of keeping everything tidy which sometimes it's difficult mainly when you have 3 or 4 projects at the same time. The next step is the most difficult one keeping the portfolio updated, but las ganas are there.
+Eventually, I decided to just code my portfolio myself. There was only one problem: I have zero knowledge of HTML, CSS, or JavaScript. But I didn’t let that stop me. The solution I came up with was using a GitHub template—basically, I picked one that already had the basic structure built in. That way, I didn’t have to know front-end development, but I still had enough freedom to make it feel like *my* portfolio. Once I settled on a template I liked, it was time to dive into YouTube tutorials to learn how to modify it and add my content. It was a little messy at first, but I eventually got the hang of it.
 
+The end result? I’m happy with it, for now. It’s definitely a work in progress, but I plan to keep improving it over the next few months, hopefully learning some HTML and CSS along the way so I can make the page even better. Honestly, it’s been a journey for what was supposed to be a 5-hour course, but a pretty enjoyable one. Having everything I’ve done professionally in one place is already helping me stay organized—especially when I’m juggling multiple projects at the same time.
 
+Now, the hardest part: keeping the portfolio updated. But hey, I’m motivated, and the excitement is still there!
 
+```mermaid
+graph TD
+    A[Start] --> B[Idea of Digital Portfolio]
+    B --> C[Understand Purpose and Content]
+    C --> D[First Try: Platforms (Wix, Wordpress)]
+    D --> E[Problems with Customization and Limited Free Options]
+    E --> F[Second Try: Notion]
+    F --> G[Notion Limited Customization]
+    G --> H[Decide to Code Portfolio]
+    H --> I[Use GitHub Template]
+    I --> J[Learn to Modify Template via YouTube]
+    J --> K[Final Portfolio (Satisfactory)]
+    K --> L[Future: Learning HTML & CSS]
+    L --> M[Keep Portfolio Updated]
+    M --> N[End]
+```
