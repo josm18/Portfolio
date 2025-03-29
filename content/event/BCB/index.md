@@ -1,5 +1,6 @@
 ---
 title: 'GP4PG: A metaheuristic approach to demographic inference using genetic programming'
+css_class: custom-event-page
 
 event: 2a Asamblea Conexion BCB
 event_url: https://conexion-bcb.csic.es/evento/2a-asamblea-general/
