@@ -1,7 +1,7 @@
 ---
 title: Build your own digital portfolio
 summary: Learn how to build your own digital portfolio and metacognition techniques
-date: 2025-03-31
+date: 2025-03-27
 type: docs
 math: false
 tags:
