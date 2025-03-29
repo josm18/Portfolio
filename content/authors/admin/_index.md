@@ -25,7 +25,7 @@ profiles:
   - icon: at-symbol
     url: 'mailto:josemiguel.serradell@gmail.com'
     label: E-mail Me
-  - icon: "custom/bsky.svg"
+  - icon: brands/bluesky
     url: https://bsky.app/profile/josmi1895.bsky.social
   - icon: brands/github
     url: https://github.com/josm18
@@ -55,18 +55,18 @@ education:
     date_start: 2017-10-01
     date_end: 2018-07-01
     summary: |
-      Description of the master...
+      This master's program provided me with a multidisciplinary perspective on anthropological studies. With a background in population genetics, it allowed me to explore human evolution through social and archaeological lenses while also deepening my expertise in population genetics.
 
       Relevant courses included:
-      - Population Genomics
-      - ..
-      - ..
+      - Human Biodiversity
+      - Primatology and Human Evolution
+      - Antrhopological Demography
   - area: BSc Genetics
     institution: Universitat Autonoma de Barcelona
     date_start: 2013-09-13
     date_end: 2017-06-30
     summary: |
-      Description of the genetic degree
+      As a Genetics graduate, I gained a foundational understanding of the genetics of life, from the molecular structure of DNA to evolution and speciation. The degree offered a multidisciplinary approach, covering classical genetics, population genetics, bioinformatics, cancer genetics, and diagnostics.
       
       Relevant courses included:
       - Bioinformatics
@@ -80,10 +80,12 @@ work:
     date_start: 2024-01-20
     date_end: ''
     summary: |2-
+      As a postdoctoral researcher at Lao's Lab my main project has been deciphering the demographic history of Southeast Asian populations with interest in the effect of Early Modern Human and Denisova Introgression to current day human populations in Asia applying ABC-DL & GP4GP.
+
       Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Develop GP4PG software
+      - Apply GP4PG to multiple demographic inference projects
+
   - position: Postdoctoral Researcher
     company_name: CiC-Biogune
     company_url: ''
@@ -91,10 +93,10 @@ work:
     date_start: 2024-03-10
     date_end: 2024-07-01
     summary: |
+      As part of Marigorta’s Lab, I’ve been working on the Meta-Marax (MM) haplotype-GWAS project, producing the Polygenic Risk Scores for the probabilities obtained by MM.
+
       Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Design methodologies to calculate polygenic scores for Schizophrenia using haplotype-based GWAS
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -104,19 +106,27 @@ skills:
       - name: Python
         description: ''
         percent: 80
-        icon: code-bracket
+        icon: devicon/python
       - name: Java
         description: ''
         percent: 80
-        icon: code-bracket
-      - name: Shell
+        icon: devicon/java
+      - name: Bash
         description: ''
         percent: 80
-        icon: code-bracket
+        icon: devicon/bash
       - name: R
         description: ''
         percent: 80
-        icon: code-bracket
+        icon: devicon/r
+      - name : Plink 
+        descriprion: '' 
+        percent: 80
+        icon: ![alt text](image.png)
+      - name: Notion
+        description: ''
+        percent: 80
+        icon: devicon/notion
   - name: Skills
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -128,11 +138,11 @@ skills:
       - name: Genomics
         description: ''
         percent: 100
-        icon: dna
+        icon: 🧬
       - name: Machine-learning
         description: ''
         percent: 80
-        icon: robot
+        icon: 🤖
 
 languages:
   - name: English
