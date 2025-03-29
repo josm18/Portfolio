@@ -1,7 +1,7 @@
 ---
 title: ML & DL in population genomics
 summary: Machine Learning methods applied to population genetic analysis in Python
-date: 2025-04-04
+date: 2025-03-29
 type: docs
 math: false
 tags:
