@@ -1,24 +1,24 @@
 ---
-title: Example Talk
+title: 'GP4PG: A metaheuristic approach to demographic inference using genetic programming'
 
-event: Hugo Blox Builder Conference
-event_url: https://example.org
+event: 2a Asamblea Conexion BCB
+event_url: https://conexion-bcb.csic.es/evento/2a-asamblea-general/
 
-location: Hugo Blox Builder HQ
+location: CSIC HQ
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
+  street: Serrano 117
+  city: Madrid
+  region: Madrid
+  postcode: '28006'
+  country: Spain
 
-summary: An example talk using Hugo Blox Builder's Markdown slides feature.
-abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
+summary: 1st talk as a Momentum postdoc.
+abstract: 'The use of genomic data to make evolutionary inferences has revolutionized our understanding of the processes that shape genetic diversity and adaptation across species. By analyzing genetic sequences, we can trace the evolutionary history of populations, species, and entire lineages, providing deeper insight into how evolutionary forces have influenced the genetic makeup of populations over time. Traditional demographic inference methods rely on summary statistics, which can either be selected by researchers or generated using deep learning techniques. While these deep learning approaches are useful for defining optimal summary statistics for demographic models, their black box nature can make them difficult to interpret. Without a clear understanding of how these algorithms function, making accurate evolutionary inferences becomes challenging. Traditional demographic modelling describes each tested model as a combination of topology and demographic events. However, the ascertainment of such models is often subject to bias, primarily due to the subjective selection of demographic events by researchers, particularly when population substructure is involved. To address these limitations, we developed the Genetic Programming for Population Genetics (GP4PG) methodology, an innovative approach to modelling complex demographic scenarios by applying genetic programming. GP4PG automates the exploration of parameter-free demographic models by coding demographic relationships as graphical structures, enabling optimization through mutation and selection. GP4PG minimizes model bias by only relying on the topology of demographic models rather than predefined parameter assumptions'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2030-06-01T13:00:00Z'
-date_end: '2030-06-01T15:00:00Z'
+date: '2025-03-12'
+#date_end: '2030-06-01T15:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
@@ -33,7 +33,7 @@ tags: []
 featured: false
 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+  caption: 'Image credit: Conexion BCB'
   focal_point: Right
 
 #links:
@@ -41,10 +41,10 @@ image:
 #    icon_pack: fab
 #    name: Follow
 #    url: https://twitter.com/georgecushen
-url_code: 'https://github.com'
+url_code: ''
 url_pdf: ''
-url_slides: 'https://slideshare.net'
-url_video: 'https://youtube.com'
+url_slides: ''
+url_video: ''
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
@@ -60,16 +60,19 @@ slides: ""
 #   Otherwise, set `projects = []`.
 projects:
   - example
+# {{% callout note %}}
+# Click on the **Slides** button above to view the built-in slides feature.
+# {{% /callout %}}
+
+#Slides can be added in a few ways:
+
+#- **Create** slides using Hugo Blox Builder's [_Slides_](https://docs.hugoblox.com/reference/content-types/) feature and link using `slides` parameter in the front matter of the talk file
+#- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+#- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://docs.hugoblox.com/reference/markdown/).
+
+#Further event details, including [page elements](https://docs.hugoblox.com/reference/markdown/) such as image galleries, can be added to the body of this page.
 ---
 
-{{% callout note %}}
-Click on the **Slides** button above to view the built-in slides feature.
-{{% /callout %}}
+About the talk: 
 
-Slides can be added in a few ways:
-
-- **Create** slides using Hugo Blox Builder's [_Slides_](https://docs.hugoblox.com/reference/content-types/) feature and link using `slides` parameter in the front matter of the talk file
-- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
-- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://docs.hugoblox.com/reference/markdown/).
-
-Further event details, including [page elements](https://docs.hugoblox.com/reference/markdown/) such as image galleries, can be added to the body of this page.
+This talk was one of the events I attended as a CSIC-Momentum postdoctoral researcher. As one of the first gatherings in the program, it provided an opportunity to connect with fellow Momentum scholars and share our initial challenges. It was also fascinating to learn about the innovative projects others are working on and to gain insight into the future courses and events planned for the coming years in the Momentum program.

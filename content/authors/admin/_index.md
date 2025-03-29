@@ -122,7 +122,7 @@ skills:
       - name : Plink 
         descriprion: '' 
         percent: 80
-        icon: ![alt text](image.png)
+        icon: code-bracket
       - name: Notion
         description: ''
         percent: 80
@@ -138,11 +138,11 @@ skills:
       - name: Genomics
         description: ''
         percent: 100
-        icon: 🧬
+        icon: beacker
       - name: Machine-learning
         description: ''
         percent: 80
-        icon: 🤖
+        icon: light-bulb
 
 languages:
   - name: English
