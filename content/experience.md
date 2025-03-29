@@ -20,7 +20,7 @@ sections:
       is_education_first: false
   - block: resume-skills
     content:
-      title: Skills & Hobbies
+      title: Skills
       username: admin
     design:
       show_skill_percentage: false
@@ -28,6 +28,8 @@ sections:
     content:
       title: Courses & Workshops
       username: admin
+    design:
+      clomuns: 2
   - block: resume-languages
     content:
       title: Languages
