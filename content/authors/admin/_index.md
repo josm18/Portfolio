@@ -25,7 +25,7 @@ profiles:
   - icon: at-symbol
     url: 'mailto:josemiguel.serradell@gmail.com'
     label: E-mail Me
-  - icon: assets/media/icons/custom/bsky.svg
+  - icon: assets/media/icons/custom/bsky.png
     url: https://bsky.app/profile/josmi1895.bsky.social
   - icon: brands/github
     url: https://github.com/josm18
