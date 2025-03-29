@@ -1,7 +1,6 @@
-.custom-event-page article {
-  max-width: 1000px;
+.custom-event-page article.w-full.break-words  {
+  max-width: 900px !important;
   margin-left: auto;
   margin-right: auto;
-  padding: 0 20px; /* Opcional */
 }
 
