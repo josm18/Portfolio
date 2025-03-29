@@ -13,10 +13,10 @@ sections:
   - block: collection
     id: teaching
     content:
-      title: Teaching
+      title: Momentum
       filters:
         folders:
-          - teaching
+          - momentum
     design:
       view: article-grid
       columns: 2

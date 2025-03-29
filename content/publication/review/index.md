@@ -20,7 +20,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Human Molecular Genetics"
+publication: "Human Molecular Genetics"
 publication_short: ""
 
 abstract: Compared with the rest of the African continent, North Africa has provided limited genomic data. Nonetheless, the genetic data available show a complex demographic scenario characterized by extensive admixture and drift. Despite the continuous gene flow from the Middle East, Europe and sub-Saharan Africa, an autochthonous genetic component that dates back to pre-Holocene times is still present in North African groups. The comparison of ancient and modern genomes has evidenced a genetic continuity in the region since Epipaleolithic times. Later population movements, especially the gene flow from the Middle East associated with the Neolithic, have diluted the genetic autochthonous component, creating an east to west gradient. Recent historical movements, such as the Arabization, have also contributed to the genetic landscape observed currently in North Africa and have culturally transformed the region. Genome analyses have not shown evidence of a clear correlation between cultural and genetic diversity in North Africa, as there is no genetic pattern of differentiation between Tamazight (i.e. Berber) and Arab speakers as a whole. Besides the gene flow received from neighboring areas, the analysis of North African genomes has shown that the region has also acted as a source of gene flow since ancient times. As a result of the genetic uniqueness of North African groups and the lack of available data, there is an urgent need for the study of genetic variation in the region and its implications in health and disease.
@@ -28,8 +28,8 @@ abstract: Compared with the rest of the African continent, North Africa has prov
 # Summary. An optional shortened abstract.
 
 tags:
-- Source Themes
-featured: false
+- North Africa
+featured: true
 
 # links:
 # - name: ""

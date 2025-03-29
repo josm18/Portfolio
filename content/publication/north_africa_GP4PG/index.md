@@ -28,7 +28,7 @@ abstract: "Background: North African human populations present a complex demogra
 
 tags:
 - North Africa
-featured: false
+featured: true
 
 # links:
 # - name: ""
