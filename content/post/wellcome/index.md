@@ -23,7 +23,7 @@ With a formal background in Genetics, specifically in Population Genetics and Mo
 
 My research provides me with a strong foundation in population genetics, data analysis as well as the use of many bioinformatic tools. On top of that, my line of work during my PhD thesis gives me experience on the use of demogenomic tools. 
 
-In this portfolio you are going to find everything related to my advances as a scientist with special focus to the activities related to the [CSIC Momentum] (https://momentum.csic.es/) programme. 
+In this portfolio you are going to find everything related to my advances as a scientist with special focus to the activities related to the [CSIC Momentum](https://momentum.csic.es/) programme. 
 
 If you want to contact me to discuss anything related to population genomics and the integretaion of AI in the study of demogenomics click the link to any of my socials below.
 

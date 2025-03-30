@@ -3,10 +3,10 @@ title: Modelling the demographic history of human North African genomes points t
 date: 2024-06-10
 
 tags:
+  - North Africa
   - Java
   - Demogenomics
-  - North Africa
-
+  
 image:
   caption: Demographic model of North Africa
 ---
