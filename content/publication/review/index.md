@@ -1,5 +1,6 @@
 ---
-title: "Population history of North Africa based on modern and ancient genomes"
+title: Population history of North Africa based on modern and ancient genomes
+summary: Review
 authors:
 - admin
 - Marcel Lucas-Sánchez
