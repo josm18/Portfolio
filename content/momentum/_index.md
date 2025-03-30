@@ -20,4 +20,8 @@ sections:
     design:
       view: article-grid
       columns: 2
+
+image:
+  src: "momentum.png" # Ruta de la imagen
+  alt: "Momentum Image"         # Texto alternativo para accesibilidad
 ---

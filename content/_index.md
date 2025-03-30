@@ -24,7 +24,7 @@ sections:
         color: black
         image:
           # Add your image background to `assets/media/`.
-          filename: japan.jpeg
+          filename: endless-coonstellation.svg
           filters:
             brightness: 1.0
           size: cover
@@ -67,6 +67,7 @@ sections:
     id: talks
     content:
       title: Recent Talks
+      count: 2
       filters:
         folders:
           - event

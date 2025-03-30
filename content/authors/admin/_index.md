@@ -6,10 +6,6 @@ title: Jose M Serradell
 first_name: Jose Miguel
 last_name: Serradell
 
-# Status emoji
-status:
-  icon: 🕷
-
 # Is this the primary user of the site?
 superuser: true
 
@@ -46,7 +42,7 @@ education:
     date_start: 2020-04-01
     date_end: 2024-03-01
     summary: |
-      Thesis on Demographic Inference in complex populations: the North African case. Supervised by [Dr. David Comas & Dr. Oscar Lao]. Contributions published in 2 papers in *Genome Biology* and *Human Molecular Genetics*.
+      Thesis on Demographic Inference in complex populations: the North African case. Supervised by Dr. David Comas & Dr. Oscar Lao. Contributions published in 2 papers in **Genome Biology** and **Human Molecular Genetics**.
     button:
       text: 'Read Thesis'
       url: 'https://www.tesisenred.net/handle/10803/690463#page=1'
@@ -127,6 +123,8 @@ skills:
         description: ''
         percent: 80
         icon: devicon/notion
+    design:
+      columns: 2
   - name: Skills
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -138,7 +136,7 @@ skills:
       - name: Genomics
         description: ''
         percent: 100
-        icon: beacker
+        icon: assets/media/icons/custom/dna.svg
       - name: Machine-learning
         description: ''
         percent: 80
@@ -174,14 +172,14 @@ awards:
     url: https://www.github
     date: '2022-07-30'
     awarder: Institut Biologia Evolutiva
-    icon: ""
+    icon: IBE.png
     summary: |
       In this course I got familiarized with techinques performed by several of my colleagues during their PhD as well as grasping a basic knowledge of the different research topics performed in the institute.
   - title: 'Java Programming I & II, MOOC'
     url: https://www.mooc.fi
     date: '2020-07-15'
     awarder: University of Helsinki
-    icon: ""
+    icon: mncn.jpg
     summary: |
       This course showed me the basis of the Java programming language as well as helping me understand object oriented programming.
 ---
