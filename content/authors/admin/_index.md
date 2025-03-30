@@ -136,7 +136,7 @@ skills:
       - name: Genomics
         description: ''
         percent: 100
-        icon: assets/media/icons/custom/dna.svg
+        icon: custom/dna
       - name: Machine-learning
         description: ''
         percent: 80
@@ -172,14 +172,14 @@ awards:
     url: https://www.github
     date: '2022-07-30'
     awarder: Institut Biologia Evolutiva
-    icon: IBE.png
+    icon: 
     summary: |
       In this course I got familiarized with techinques performed by several of my colleagues during their PhD as well as grasping a basic knowledge of the different research topics performed in the institute.
   - title: 'Java Programming I & II, MOOC'
     url: https://www.mooc.fi
     date: '2020-07-15'
     awarder: University of Helsinki
-    icon: mncn.jpg
+    icon: 
     summary: |
       This course showed me the basis of the Java programming language as well as helping me understand object oriented programming.
 ---
