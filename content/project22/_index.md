@@ -1,6 +1,6 @@
 ---
 title: Projects
-summary: Here I am going to talk about all things related to Momentum
+summary: Here are a selection of projects that I have worked on over the years.
 type: landing
 
 cascade:
@@ -20,8 +20,4 @@ sections:
     design:
       view: article-grid
       columns: 2
-
-image:
-  src: momentum.png # Ruta de la imagen
-  alt: "Momentum Image"         # Texto alternativo para accesibilidad
 ---
