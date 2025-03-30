@@ -1,8 +1,12 @@
 ---
-title: Recent & Upcoming Talks
-cms_exclude: true
+title: Talks
+cms_exclude: false
 #url: talk
 
+
+design:
+  # Default section spacing
+  spacing: "6rem"
 # View
 view: card
 

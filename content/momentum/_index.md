@@ -22,6 +22,6 @@ sections:
       columns: 2
 
 image:
-  src: "momentum.png" # Ruta de la imagen
+  src: momentum.png # Ruta de la imagen
   alt: "Momentum Image"         # Texto alternativo para accesibilidad
 ---

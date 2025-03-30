@@ -6,6 +6,9 @@ tags:
   - Java
   - Demogenomics
   - North Africa
+
+image:
+  caption: Demographic model of North Africa
 ---
 
 I applied machine learning to develop a model to explain the demographic history of North Africa using whole genome data. We also develop a new software to construct demographic models based on meta-heuristics - [Genetic Programming for Population Genetics (GP4PG)](https://github.com/oscarlao/GP4PG)

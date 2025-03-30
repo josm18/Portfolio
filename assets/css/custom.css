@@ -1,6 +1,6 @@
-.custom-event-page article.w-full.break-words  {
-  max-width: 900px !important;
-  margin-left: auto;
-  margin-right: auto;
+.content {
+    background-color: #f0f0f0;
+    padding: 20px;
+    border-radius: 5px; 
 }
 

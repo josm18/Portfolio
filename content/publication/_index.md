@@ -24,4 +24,5 @@ sections:
     design:
       view: compact
       columns: '1'
+      borders: false
 ---
