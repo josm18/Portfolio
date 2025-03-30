@@ -6,7 +6,7 @@ type: landing
 design:
   # Default section spacing
   spacing: "6rem"
-  
+
 cascade:
   - _target:
       kind: page
@@ -22,6 +22,7 @@ sections:
         folders:
           - event
     design:
-      view: card
-      columns: '1'
+      column: '1'
+      view: showcase
+      flip_alt_rows: true
 ---

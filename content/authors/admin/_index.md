@@ -136,7 +136,7 @@ skills:
       - name: Genomics
         description: ''
         percent: 100
-        icon: custom/dna
+        icon: dna3
       - name: Machine-learning
         description: ''
         percent: 80
@@ -169,14 +169,14 @@ awards:
     summary: |
       I learned different machine learning algorithms such as xboostg, random forest appliying them to sample biological data
   - title: 'IBE PhD Course'
-    url: https://www.github
+    url: https://github.com/olaoIbe/PhD-IBE-Course-2022
     date: '2022-07-30'
     awarder: Institut Biologia Evolutiva
     icon: 
     summary: |
       In this course I got familiarized with techinques performed by several of my colleagues during their PhD as well as grasping a basic knowledge of the different research topics performed in the institute.
   - title: 'Java Programming I & II, MOOC'
-    url: https://www.mooc.fi
+    url: https://www.mooc.fi/en/
     date: '2020-07-15'
     awarder: University of Helsinki
     icon: 
