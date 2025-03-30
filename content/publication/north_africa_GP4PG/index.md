@@ -1,5 +1,5 @@
 ---
-title: Modelling the demographic history of human North African genomes points to a recent soft split divergence between populations"
+title: Modelling the demographic history of human North African genomes points to a recent soft split divergence between populations
 authors:
 - admin
 - Jose M Lorenzo-Salazar
