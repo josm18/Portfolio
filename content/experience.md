@@ -29,7 +29,7 @@ sections:
       title: Courses & Workshops
       username: admin
     design:
-      columns: 2
+      columns: '2'
   - block: resume-languages
     content:
       title: Languages

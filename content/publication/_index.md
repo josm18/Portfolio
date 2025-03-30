@@ -1,12 +1,23 @@
 ---
 title: Publications
-cms_exclude: true
+summary: Here are a selection of projects that I have worked on over the years.
+type: landing
 
-# View.
-view: citation
+cascade:
+  - _target:
+      kind: page
+    params:
+      show_breadcrumb: true
 
-# Optional header image (relative to `static/media/` folder).
-banner:
-  caption: ''
-  image: ''
+sections:
+  - block: collection
+    id: publications
+    content:
+      title: Publications
+      filters:
+        folders:
+          - publication
+    design:
+      view: compact
+      columns: '1'
 ---
