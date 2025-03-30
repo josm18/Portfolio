@@ -12,8 +12,7 @@ authors:
   - admin
 
 tags:
-  - Academic
-  - Markdown
+  - News
 ---
 
 Welcome 👋
@@ -28,5 +27,5 @@ In this portfolio you are going to find everything related to my advances as a s
 
 If you want to contact me to discuss anything related to population genomics and the integretaion of AI in the study of demogenomics click the link to any of my socials below.
 
-                                                                                                            Jose M. 
+Jose M. 
 
