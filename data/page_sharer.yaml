@@ -4,7 +4,7 @@
 
 links:
   - id: bsky
-    url: 'https://bsky.app/intent/compose?url={url}&title={title}'
+    url: 'https://bsky.app/intent/compose?text={url}'
     title: Bluesky
     icon: brands/bluesky
     enable: true
