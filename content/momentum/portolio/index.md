@@ -21,19 +21,3 @@ The end result? I’m happy with it, for now. It’s definitely a work in progre
 
 Now, the hardest part: keeping the portfolio updated. But hey, I’m motivated, and the excitement is still there!
 
-```mermaid
-graph TD
-    A[Start] --> B[Idea of Digital Portfolio]
-    B --> C[Understand Purpose and Content]
-    C --> D[First Try: Platforms (Wix, Wordpress)]
-    D --> E[Problems with Customization and Limited Free Options]
-    E --> F[Second Try: Notion]
-    F --> G[Notion Limited Customization]
-    G --> H[Decide to Code Portfolio]
-    H --> I[Use GitHub Template]
-    I --> J[Learn to Modify Template via YouTube]
-    J --> K[Final Portfolio (Satisfactory)]
-    K --> L[Future: Learning HTML & CSS]
-    L --> M[Keep Portfolio Updated]
-    M --> N[End]
-```
