@@ -22,7 +22,7 @@ sections:
         folders:
           - publication
     design:
-      view: 2
+      view: 4
       columns: '1'
       borders: false
 ---

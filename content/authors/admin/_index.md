@@ -186,4 +186,4 @@ awards:
 
 ## About Me
 
-Jose Miguel Serradell is a postdoctoral researcher at the Algorithms for Population Genomics lab in the Institut de Biologia Evolutiva. My research interests include the application of machine learning and artificial intelligence techniques to explore demographic events in current and ancient populations and their effect of the genomes. I am  currently exploring potential Early Modern Human signals in current day South East Asian populations as part of the CSIC Momentum postdoctoral programme.
+Hi! My name is Jose Miguel Serradell and I am a postdoctoral researcher at the Algorithms for Population Genomics lab in the Institut de Biologia Evolutiva. My research interests include the application of machine learning and artificial intelligence techniques to explore demographic events in current and ancient populations and their effect of the genomes. I am currently exploring potential Early Modern Human signals in current day South East Asian populations as part of the CSIC Momentum postdoctoral programme.
